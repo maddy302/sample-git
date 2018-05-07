@@ -9,3 +9,5 @@ git commit -m 'comments for committing and changing' [[[to commit directly witho
 
 touch .gitignore [[[add the files to be ignored into this file ex- log.txt
 when you [[ git add . [[the file log.txt will be ignored. /<directory-name> to ignore the folder.
+
+git branch branch1 [[[ to create a new branch branch1
