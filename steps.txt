@@ -24,3 +24,6 @@ origin
 
 Madhukar@Srihari-VAIO MINGW64 ~/CPP/gittest (master)
 $ git push -u origin master
+
+
+git clone <address> [[[to clone the 
