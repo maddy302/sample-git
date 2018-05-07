@@ -11,3 +11,6 @@ touch .gitignore [[[add the files to be ignored into this file ex- log.txt
 when you [[ git add . [[the file log.txt will be ignored. /<directory-name> to ignore the folder.
 
 git branch branch1 [[[ to create a new branch branch1
+git checkout branch1 [[ to go to the new branch
+git checkout master [[[ to switch to master branch
+ git merge branch1 -m 'merging the old steps and new branch1' [[[ to merge 
