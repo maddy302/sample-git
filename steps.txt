@@ -1,0 +1,6 @@
+git init [[[[To make a local repository available for commit and push
+ git config --global user.name 'Madhukar'
+ git config --global user.email 'bsm4u2722@gmail.com'
+
+git add index.html [[[[To add a file to stagin area - 
+git rm --cached <file> [[[[ to unstage the file from the stagged area
