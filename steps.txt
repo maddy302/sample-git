@@ -4,3 +4,5 @@ git init [[[[To make a local repository available for commit and push
 
 git add index.html [[[[To add a file to stagin area - 
 git rm --cached <file> [[[[ to unstage the file from the stagged area
+git commit [[[will commit the changes in the local repository. 
+git commit -m 'comments for committing and changing' [[[to commit directly without opening a editor to add the comments
