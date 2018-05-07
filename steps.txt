@@ -14,3 +14,13 @@ git branch branch1 [[[ to create a new branch branch1
 git checkout branch1 [[ to go to the new branch
 git checkout master [[[ to switch to master branch
  git merge branch1 -m 'merging the old steps and new branch1' [[[ to merge 
+ 
+Madhukar@Srihari-VAIO MINGW64 ~/CPP/gittest (master)
+$ git remote add origin https://github.com/maddy302/sample-git.git
+
+Madhukar@Srihari-VAIO MINGW64 ~/CPP/gittest (master)
+$ git remote
+origin
+
+Madhukar@Srihari-VAIO MINGW64 ~/CPP/gittest (master)
+$ git push -u origin master
