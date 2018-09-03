@@ -8,7 +8,7 @@ git commit [[[will commit the changes in the local repository.
 git commit -m 'comments for committing and changing' [[[to commit directly without opening a editor to add the comments
 
 touch .gitignore [[[add the files to be ignored into this file ex- log.txt
-when you [[ git add . [[the file log.txt will be ignored. /<directory-name> to ignore the folder.
+when you [[ git add . [[the file log.txt will be ignored. <directory-name>/ to ignore the folder.
 
 git branch branch1 [[[ to create a new branch branch1
 git checkout branch1 [[ to go to the new branch
